@@ -2,6 +2,9 @@
 
 ### Most Used Langs (Only public repo)
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=qriquri&theme=gruvbox)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qriquri&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats-clone-q11.vercel.app/api?username=qriquri&count_private=true&show_icons=true&theme=gruvbox" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats-clone-q11.vercel.app/api/top-langs/?username=qriquri&theme=gruvbox" />
+</a>
